@@ -1,0 +1,148 @@
+/* Background Gradient: Black to Grey */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #1e1e1e, #333); /* Păstrăm fundalul negru și gri */
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adăugăm umbre */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+h1 {
+    margin: 10px 0 0;
+    color: #b50e29; /* Schimbăm portocaliul în visiniu */
+    text-shadow: 0px 0px 10px rgba(181, 14, 41, 0.8); /* Glow visiniu pentru titlu */
+}
+
+/* Main area adjustments */
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 250px; /* Compensare pentru header */
+    padding-bottom: 100px; /* Spațiu pentru footer */
+    gap: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.category {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adăugăm umbre */
+    text-align: center;
+    width: 300px;
+    height: 250px;
+    overflow-y: auto;
+    position: relative;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
+}
+
+.category:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8); /* Umbre mai mari la hover */
+}
+
+/* Button Styling with Glow and Modern Effects */
+button {
+    background-color: #b50e29; /* Culoare visiniu */
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
+    box-shadow: 0px 0px 15px rgba(181, 14, 41, 0.5); /* Glow visiniu */
+}
+
+button:hover {
+    background-color: #910a21; /* Închidem puțin culoarea la hover */
+    box-shadow: 0px 0px 20px rgba(181, 14, 41, 0.8); /* Glow mai puternic la hover */
+}
+
+button:active {
+    transform: scale(0.95); /* Micșorăm butonul la apăsare */
+    box-shadow: 0px 0px 10px rgba(181, 14, 41, 0.8); /* Glow redus la click */
+}
+
+/* Styling for the message container */
+.message-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-height: calc(100% - 70px);
+    overflow-y: auto;
+    padding-right: 12px; /* Spațiu pentru scrollbar */
+    background-color: #333; /* Păstrăm fundalul */
+    border-radius: 10px; /* Forme rotunjite */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Umbre pentru container */
+    transition: box-shadow 0.3s ease; /* Smooth transition */
+}
+
+/* Glow effect for generated messages */
+.message-container p {
+    color: #fff;
+    background: rgba(181, 14, 41, 0.1); /* Fond semi-transparent */
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+    box-shadow: 0px 0px 10px rgba(181, 14, 41, 0.5); /* Glow visiniu */
+    transition: all 0.3s ease-in-out; /* Smooth transition for appearance */
+}
+
+/* Custom scrollbar styling */
+.message-container::-webkit-scrollbar {
+    width: 12px;
+}
+
+.message-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.message-container::-webkit-scrollbar-thumb {
+    background: #b50e29; /* Visiniu */
+    border-radius: 10px;
+}
+
+.message-container::-webkit-scrollbar-thumb:hover {
+    background: #910a21;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+    margin: 0;
+    color: #b50e29; /* Schimbăm textul în visiniu */
+    text-shadow: 0px 0px 8px rgba(181, 14, 41, 0.8); /* Glow visiniu */
+}
