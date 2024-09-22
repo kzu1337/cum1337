@@ -267,6 +267,7 @@ const messages = {
 		"Would you finger my holes? 😈😈",
 		"Which hole do you prefer my lover? 😍😍",
 		"Videocall today? 😋😈",
+	        "Honey, let's play a game 🎮🎲. Today I decided to have no control over my content 🤪, what do you think? You will have to tip me how much you want and I will double it in content 😏😈. Are you in? 🥰",
 		"Hey baby, I've got a naughty idea. How about I make a custom video just for you for $150? I’ll moan your name as I play with my pussy or my ass, all while wearing a sexy outfit of your choice—lace panties, or anything else you want to see me in. Just tell me what you want, and I'll create an exclusive 10-minute video that will drive you wild 😉😏",
 		"Boobies, boobies, boobies, do you want some?🤭👶",
 		"Come and milk me 👶👶",
