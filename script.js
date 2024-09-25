@@ -15,9 +15,9 @@ const currentIndexes = {
     bundle: 0,
     support: 0,
     ivyvip: 0,
-	ambervip: 0,
-	vrajeli: 0,
-	dickrate: 0
+    ambervip: 0,
+    vrajeli: 0,
+    dickrate: 0
 };
 
 // Track if the "End of Messages" has been reached for each category
@@ -300,8 +300,8 @@ const messages = {
     ],
 	ambervip: [
 	
+	    "Hello, my loveeeeee 💞💞💞! I’m so happy to have you here, and I hope you’re doing amazing today 💋❤️. I’ve got something super exciting for you 🎁🎉! If you join my VIP page today at @amberjadevip69, you’ll get an exclusive gift from me 😋💌. We can connect on a whole new level there—spicier content, more personal posts, and everything you love, but even better 🔥💯! I’m waiting for you, babe 💋😘. Let’s make it even more fun and intimate over there 😇❤️. Can’t wait to see you! 💕 Kisses 💖! @amberjadevip69",
 	    "50% OFF for new and expired subscribers!!! Join my VIP account, it's my private paradise! @amberjadevip69 @amberjadevip69 @amberjadevip69 💦💦💦 💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕",
-		"Hello, my loveeeeee 💞💞💞! I’m so happy to have you here, and I hope you’re doing amazing today 💋❤️. I’ve got something super exciting for you 🎁🎉! If you join my VIP page today at https://onlyfans.com/amberjadevip69, you’ll get an exclusive gift from me 😋💌. We can connect on a whole new level there—spicier content, more personal posts, and everything you love, but even better 🔥💯! I’m waiting for you, babe 💋😘. Let’s make it even more fun and intimate over there 😇❤️. Can’t wait to see you! 💕 Kisses 💖! https://onlyfans.com/amberjadevip69",
         "Hey sweetheart 🥰, on my VIP page, you’ll find tons of spicy posts showing my pussy and boobs for free. The subscription is just $5/month, and I post new content daily 🥰. As a new subscriber, you’ll receive a welcome message with a hot video featuring my boobs. Subscribe now, and I’ll add another exclusive video just for you 😈. Plus, enjoy additional discounts and longer sexting sessionss 💕. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69. Come support me, and I promise you won’t regret it 🍆💦💦. I guarantee you’ll be pleased and satisfied 🥰😏. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69",
         "Hey there, sweetheart 🥰! On my VIP page, you’ll find tons of spicy posts showcasing my pussy and boobs for free. It’s only $5/month to subscribe, and I post new content every day 🥰. When you subscribe, you'll get a welcome message with a very nice video featuring my boobs. And if you subscribe now, I’ll throw in another exclusive video just for you 😈. Plus, enjoy more discounts and longer sexting sessionss 💕. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69. Come and support me, and I promise you won’t regret it 🍆💦💦. I guarantee you'll be pleased and satisfied 🥰😏. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69",
         "Hey cutie 🥰, check out my VIP page where you can see my pussy and boobs for free in lots of spicy posts. The subscription is only $5/month and I update daily 🥰. When you join, you'll get a welcome message with a special video of my boobs. Subscribe now and I’ll give you another exclusive video 😈. Plus, enjoy extra discounts and longer sexting sessionss 💕. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69. Come and support me, you won’t regret it 🍆💦💦. I promise to leave you pleased and satisfied 🥰😏. @amberjadevip69 @amberjadevip69 @amberjadevip69 @amberjadevip69",
