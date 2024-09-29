@@ -86,7 +86,8 @@ const messages = {
     ],
     blowjob: [
 	    
-	"I pull backwards and watch your rock hard dick bounce in front of my eyes 🤩🤩 Mmmm... I looooove it sooo much baby 🤤😋",   
+	"I pull backwards and watch your rock hard dick bounce in front of my eyes 🤩🤩 Mmmm... I looooove it sooo much baby 🤤😋", 
+	"Suck on my nipples while you fondle my tits. My nipples are so sensitive and I'll be soaking my panties when you lick and nibble on them 😈😈😈😈😈😈",    
         "I look you straight in the eyes and then I start to suck your head slowly, running my tongue over you as you push into my mouth!!! Do you like that baby??? 😈😈😈",
 	"I can’t wait to wrap my lips around your cock. 😈 I want to take you in my mouth, feel you get harder as I slide my tongue over your tip, tasting every drop of precum. I won’t stop until you’re moaning my name 🥵🥵🥵💦",
 	"Mmm, I want to get on my knees for you, baby. 😏 I’ll look up at you with those big, needy eyes while I take your cock deep in my throat, letting my spit drip down your length. I wanna make you lose control 😈😈😈😈🍆🔥",
@@ -120,10 +121,12 @@ const messages = {
     pussylick: [
 
 	"OMG, babe! 😍 Your tongue feels so good on my wet pussy! I can’t help but squirm and moan as you lick me like I’m your favorite dessert. 🍰 Keep teasing my clit, and I promise I’ll make you feel just as good! 💦",
-	"Babe, I’m so wet for you right now! 💦 I want you to bury your face in my pussy and lick me until I can’t take it anymore. I’ll reward you with the sweetest taste once I cum 😍🍒💦💦💦",    
+	"Babe, I’m so wet for you right now! 💦 I want you to bury your face in my pussy and lick me until I can’t take it anymore. I’ll reward you with the sweetest taste once I cum 😍🍒💦💦💦", 
+        "Bury your face in my enormous tits while you finger my pussy. I'll be moaning your name and rubbing your hard cock imagining finally having it in my holes 🥵🥵🥵🥵",
 	"I can’t get enough of your mouth between my legs! 😈 The way you lick and suck my pussy drives me wild. I’m dripping for you, babe! 🍑 Let’s see how many times I can cum on your tongue tonight 🥵🥵🥵🥵💦💦💦💦💦💦",
 	"Every lick of your tongue makes me melt! 😈 I can feel the heat building inside me as you tease my clit. I’m so close, babe! Just a little more, and I’ll explode all over your face 🥵🥵🥵💦",
 	"I’m practically begging for your mouth on my pussy! 😩 Your tongue feels like heaven, swirling and teasing me just the way I like it. I want to feel you make me cum hard, babe 🥵🥵🥵🥵",
+        "Eat my pussy babeeee, lick my clit and put a finger in my ass. Oh fuck I'll be so wet when you do that 🥵💦", 
 	"Mmm, baby, I love how you worship my pussy! 😍 Each lick sends me over the edge, and I can’t get enough! I want to taste you too! Let’s make this a night to remember 💦😈",
 	"Damn, babe! You know how to work that tongue! 😈 I’m so close to cumming just from the way you tease my pussy. Keep going, and I’ll give you a special reward afterward 🥵🥵🥵🥵",
 	"I can’t believe how good you make me feel! 😍 Your mouth is like magic on my clit, and I’m already so close to cumming. Don’t stop, babe! I want to taste every bit of my pleasure 🍑💦",
@@ -146,7 +149,7 @@ const messages = {
 	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",   
 	"I want you to pin me down and take my pussy. 😈 Feel how wet I am for you, how badly I want it. Fuck me slow at first, make me beg for more, then give me everything. I need it 🥵🥵🥵🥵🥵🥵🥵🥵💦💦💦💦💦",
 	"Your cock feels so good inside me, baby. 😏 I love the way you pound my pussy, the sound of our bodies slapping together. I’m gonna cum all over you, and I want you to fill me up 😈🔥",
-	"Eat my pussy babeeee, lick my clit and put a finger in my ass. Oh fuck I'll be so wet when you do that 🥵💦",    
+	"God I love how you fuck my pussy. I can't stop imagining how good it'll feel in my tight asshole though. Please put it in my ass baby? I want to feel every inch of your hard cock stretch my hole 🥵🥵🥵💦💦💦",   
 	"Mmm, ride me hard, baby. 😈 I want to feel your cock deep inside, thrusting in and out of my wet pussy. Let’s make each other cum until we can’t move anymore 😈😈😈💦",    
 	"My pussy is so ready to taste your cock baby 🥵 spread my legs apart and burry that cock in my sweet pussy 🥵💦",
 	"Slowly in and out, but all out, that's how I love it, have the rhythm together will make us cum together at the same time, that's a very hard thing to do but if we are a match we can do it for sure. Romantic, rough, depends on the ppl and the way you do it. Keep me up there and I'll try to pull you closer to me with my legs and put it inside😍",
@@ -208,6 +211,7 @@ const messages = {
 
 	"I want you to take my ass tonight, babe. 😈 I’ve been thinking about it all day, how good your cock feels back there. I’ll start slow, letting you stretch me open until I’m begging for more 🥵🥵🔥",
 	"Mmm, I love it when you fuck my ass. 😏 It feels so tight around your cock, and the way you thrust into me makes me moan so loud. I want you to go deeper, take all of me, my love 😈💦",
+	"Pound my asshole, give me no mercy. Fuck I want your cum in my ass. My pussy is so wet just thinking about it. I want to feel the warmth fill my ass when you finally give me what I want. I want your cum to be in my ass all day babyyyyy 🥵🥵🥵🥵🥵",    
 	"You make my ass feel so good, babe. 😈 I want you to push your cock inside, feel me clench around you. I love the way you fill me up completely. Keep going until I’m cumming for you 🥵🥵🥵🔥",
 	"I want to feel your cock in my ass, stretching me wide. 😏 Take your time, make it feel so good, then fuck me until I can’t hold back my screams. I want you to fill me up, baby 😈😈😈💦",
 	"Mmm, your cock feels so amazing in my ass. 😈 I love how you take control, grab my hips, and fuck me deep. I’m so close, babe, don’t stop until we both explode 🥵🥵🥵🔥",    
