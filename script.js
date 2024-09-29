@@ -85,13 +85,18 @@ const messages = {
 		
     ],
     blowjob: [
-
+	    
+        "I look you straight in the eyes and then I start to suck your head slowly, running my tongue over you as you push into my mouth!!! Do you like that baby??? 😈😈😈",
 	"I can’t wait to wrap my lips around your cock. 😈 I want to take you in my mouth, feel you get harder as I slide my tongue over your tip, tasting every drop of precum. I won’t stop until you’re moaning my name 🥵🥵🥵💦",
 	"Mmm, I want to get on my knees for you, baby. 😏 I’ll look up at you with those big, needy eyes while I take your cock deep in my throat, letting my spit drip down your length. I wanna make you lose control 😈😈😈😈🍆🔥",
 	"You taste so good, baby. 😈 I want to suck on your cock, letting my tongue swirl around the tip while you grab my hair and push me deeper. I love feeling you throbbing in my mouth, knowing you're close 👅💦",
+	"I don't stop making eye contact, my hands are still firmly behind my back. I want to take ALL OF YOU with my mouth! 🥵🥵 I push all the way down the length of your cock as far as I can before my eyes start to water 🥺🥺",    
 	"I love hearing you moan when I suck your cock. 😏 I’m gonna take you nice and slow, using my tongue to tease you until you can't take it anymore. And when you cum, I’ll swallow every last drop 😈🔥",
-	"Mmm, I want you to fuck my throat, babe. 😈 Push me down until I’m gagging, tears streaming, and your cock is buried all the way. I’ll take it all for you and beg for more 👄💦🍆",    
+	"Mmm, I want you to fuck my throat, babe. 😈 Push me down until I’m gagging, tears streaming, and your cock is buried all the way. I’ll take it all for you and beg for more 👄💦🍆",
+	"I love how your cock looks as you stand in front of me!!! I just want to look and admire it for a moment 😍😍😍 My heart is beating faster 🥵🥵",
+	"I start running my fingers up and down your shaft, teasing you gently before placing my hands behind my back!!! I start licking your balls as your cock rests against my head 😋",    
 	"I wanna hear you moan and put my hair behind my ears 💋 I would love that, me sucking it and you doing that and from time to time to push my head down to take it deeper🤤",
+	"I stick my tongue out and lick upwards along the entire length of your shaft, enjoying all of you before I reach the head. I lick the tip before putting your big purple helmet into my mouth 🥵🤤🥵",    
 	"Imagine it's my devilish lips wrapped around it, taking it all deep into my throat while looking u in the eyes😈 But I won't be gentle, I'll gag on ch0ke on ur cock until spit drips out of my mouth and my face is painted with cum and saliva🤤🤤🤤",
 	"I will give you a very sloppy blowjob and let the saliva slide over your balls and then go down with my tongue and start licking them off, sucking gently to not hurt you, maybe a bit😈😈 and keep jerking your cock until you're about to cum and I just get back up and take it deep in my throat and look into your eyes while I keep jerking you with one hand and with the other I massage your soft and big balls🥵🥵",
         "I would crawl to you on my fours, pull your pants down and start licking your cock from bottom to top when it's not fully hard yet, then move my tongue around the tip slurping all that precum, after that I would put it in my mouth cause I love it so much to feel it grow in my mouth.. 🥵🥵🙈",
