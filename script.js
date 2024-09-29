@@ -54,6 +54,7 @@ const messages = {
         "I want you baby to fuck so hard that we are going to make the best memorie of all time and beeing by your side would be more than a miracle 👉👌💦😏",
 	"We can take care of each other so good and so well that no one did before, a new experience and a totally new world between us🥰 Satisfying each other with every single moment and second that we have to, use them as our pleasure and don't waste any😍 Fucking, anal, sucking, caressing and all that🤗",
 	"I want to run my hands down between your legs, feeling your hard dick throbbing with desire as I suck every drop of cum out of you. The thought of your mouth working its magic, your tongue swirling around me, has me on edge 🥵🥵🥵",
+	"I walk into the room and you see me in my fluffy white robe... I look you in the eyes and you know exactly how I'm feeling and what I want you to do about it 😈😋",    
         "I want you to unzip your pants and take out your cock for me and start jerking off slowly 😈",
 	"If you're going to treat me right and keep me in the bedroom all the time, fucking and fucking all the time, even when you're sleeping I will suck your cock sometimes 😈 that's the way I will wake you up, with the coffee, breakfast and a blowjob😏 I will take it in my mouth while is still sleeping and make you cum in my coffee because we don't have any milk left💦💦",
         "Fuckkkkk unzip your pants and start jerking slowly for me baby 😈🥵🥵🥵🥵💦💦💦",
@@ -173,6 +174,7 @@ const messages = {
     squirt: [
 	
         "I want you to make me lay in my own squirt and fuck me more while I'm slurping my own juice off the floor 🥵",
+	"Push my legs back as far as you can. Shove your cock up my ass and rub my clit, use my pussy juice as lube. You do it so gooooood, I think I'm going to squirt from that!!!!!! FUCK BABE 🥵 🥵 🥵",    
 	"Imagine me squirting all over the bed as you fuck me with your hard cock 😈💦. I’ll be so drenched that the sheets will be soaked with my wetness. Each thrust will push me closer to the edge, and I’ll be crying out in ecstasy, feeling my juices gush out with every powerful movement. My body will writhe beneath you, craving more of your touch as I release wave after wave of intense pleasure 💋🔥",
         "I want your cock so bad, I'm horny af and I will squirt all over it and make it so wet and keep going until I'll drain your balls inside me and I want to get down there and lick and eat all the mixed juice🥵🥵",
         "Giving me strong thrusts after just staying for a bit inside, not moving at all, leaving all the precum in there🥵 I will start squirt all over your body in seconds, just rub my clit for a little bit and grab my boobs and kiss me as passionate you can😍😍",
@@ -214,6 +216,7 @@ const messages = {
 	"Pull my hair hard when you're destroying my little hole. Smack my ass as hard as you can, make my cheeks red. I love feeling your cock slamming into my ass 🥵🥵🥵🥵",    
 	"Pound my asshole, give me no mercy. Fuck I want your cum in my ass. My pussy is so wet just thinking about it. I want to feel the warmth fill my ass when you finally give me what I want. I want your cum to be in my ass all day babyyyyy 🥵🥵🥵🥵🥵",    
 	"You make my ass feel so good, babe. 😈 I want you to push your cock inside, feel me clench around you. I love the way you fill me up completely. Keep going until I’m cumming for you 🥵🥵🥵🔥",
+        "Fuck this slutty ass baby. Fuck me as hard as you can. Make me your anal whore and fill my ass with your hot sticky cum. I love your cum baby, I want to be your cum dumpster 😈😈😈",
 	"I want to feel your cock in my ass, stretching me wide. 😏 Take your time, make it feel so good, then fuck me until I can’t hold back my screams. I want you to fill me up, baby 😈😈😈💦",
 	"Watch how your cock stretches my ass baby. Fuck me harder, make your balls slap my pussy. I'm so close, I'm going to cum so hard baby. My legs are shaking 🥵🥵🥵",    
 	"Mmm, your cock feels so amazing in my ass. 😈 I love how you take control, grab my hips, and fuck me deep. I’m so close, babe, don’t stop until we both explode 🥵🥵🥵🔥",    
