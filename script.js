@@ -86,14 +86,20 @@ const messages = {
     ],
     blowjob: [
 	    
+	"I pull backwards and watch your rock hard dick bounce in front of my eyes 🤩🤩 Mmmm... I looooove it sooo much baby 🤤😋",   
         "I look you straight in the eyes and then I start to suck your head slowly, running my tongue over you as you push into my mouth!!! Do you like that baby??? 😈😈😈",
 	"I can’t wait to wrap my lips around your cock. 😈 I want to take you in my mouth, feel you get harder as I slide my tongue over your tip, tasting every drop of precum. I won’t stop until you’re moaning my name 🥵🥵🥵💦",
 	"Mmm, I want to get on my knees for you, baby. 😏 I’ll look up at you with those big, needy eyes while I take your cock deep in my throat, letting my spit drip down your length. I wanna make you lose control 😈😈😈😈🍆🔥",
 	"You taste so good, baby. 😈 I want to suck on your cock, letting my tongue swirl around the tip while you grab my hair and push me deeper. I love feeling you throbbing in my mouth, knowing you're close 👅💦",
+	"I want you to spin me around and make me hang my head off the bed. Set your balls on my mouth and make me suck in them 🥵🥵🥵🥵🥵🥵 I want you to fuck my mouth baby. Don't hold back, make me gag on your cock while you squeeze my tits. Fuck I want that so bad 😈😈😈😈😈😈",    
 	"I don't stop making eye contact, my hands are still firmly behind my back. I want to take ALL OF YOU with my mouth! 🥵🥵 I push all the way down the length of your cock as far as I can before my eyes start to water 🥺🥺",    
 	"I love hearing you moan when I suck your cock. 😏 I’m gonna take you nice and slow, using my tongue to tease you until you can't take it anymore. And when you cum, I’ll swallow every last drop 😈🔥",
+	"I want to touch you.... I press my left hand against your stomach as my right hand grips the base of your cock. Mmmm its soooo strong in my hand 😋 I grip you tightly making you even harder, I can feel those veins pulse for me and I fucking love it 🤤🤤 I start to fuck you with my mouth, I want you to cum inside of me, I want all of it!!!! 💦💦 Don't make me beg any longer 🥺🥺 I've been dreaming of this moment all day!!!!",    
+	"I spit on your hard bouncing cock... Fuckkk I need it back in my mouth!!!! This time I'm going to use my hands!! I wrap my mouth around you once again, letting you feel my lips 👄 move all the way up and down your full length... 🥵",    
 	"Mmm, I want you to fuck my throat, babe. 😈 Push me down until I’m gagging, tears streaming, and your cock is buried all the way. I’ll take it all for you and beg for more 👄💦🍆",
+	"I let you mouth fuck me, feeling your full power!!!! OMFG baby!!!! That's it!!!!! Show me who's in control 🥵😈",    
 	"I love how your cock looks as you stand in front of me!!! I just want to look and admire it for a moment 😍😍😍 My heart is beating faster 🥵🥵",
+	"Your cock chokes me when you push it all the way but I want to take it all baby, I want you to punish me with your fat cock!!!😈😈😈 I've been dreaming about this ALL DAY so just give it to me!! 🥵",    
 	"I start running my fingers up and down your shaft, teasing you gently before placing my hands behind my back!!! I start licking your balls as your cock rests against my head 😋",    
 	"I wanna hear you moan and put my hair behind my ears 💋 I would love that, me sucking it and you doing that and from time to time to push my head down to take it deeper🤤",
 	"I stick my tongue out and lick upwards along the entire length of your shaft, enjoying all of you before I reach the head. I lick the tip before putting your big purple helmet into my mouth 🥵🤤🥵",    
@@ -137,9 +143,10 @@ const messages = {
     pussy: [
 
 	"I need you inside me right now, baby. 😈 My pussy is so wet and ready for you. I want to feel every inch as you slide in, stretching me open. Fuck me hard until I can’t take it anymore 🥵🥵🥵💦",
-	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",
+	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",   
 	"I want you to pin me down and take my pussy. 😈 Feel how wet I am for you, how badly I want it. Fuck me slow at first, make me beg for more, then give me everything. I need it 🥵🥵🥵🥵🥵🥵🥵🥵💦💦💦💦💦",
 	"Your cock feels so good inside me, baby. 😏 I love the way you pound my pussy, the sound of our bodies slapping together. I’m gonna cum all over you, and I want you to fill me up 😈🔥",
+	"Eat my pussy babeeee, lick my clit and put a finger in my ass. Oh fuck I'll be so wet when you do that 🥵💦",    
 	"Mmm, ride me hard, baby. 😈 I want to feel your cock deep inside, thrusting in and out of my wet pussy. Let’s make each other cum until we can’t move anymore 😈😈😈💦",    
 	"My pussy is so ready to taste your cock baby 🥵 spread my legs apart and burry that cock in my sweet pussy 🥵💦",
 	"Slowly in and out, but all out, that's how I love it, have the rhythm together will make us cum together at the same time, that's a very hard thing to do but if we are a match we can do it for sure. Romantic, rough, depends on the ppl and the way you do it. Keep me up there and I'll try to pull you closer to me with my legs and put it inside😍",
