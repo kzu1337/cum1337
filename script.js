@@ -231,11 +231,15 @@ const messages = {
 	"I crave the sensation of your tongue on my asshole, slowly and thoroughly exploring every inch. Each lick will make me quiver, my body arching with delight as you take your time savoring the taste and feel. The way you make me lose control with your teasing touch is absolutely irresistible 😏🔥"
     ],
     ass: [
-
+	    
+        "Mmm god baby, you make my ass feel so good. Feeling you balls hit my pussy 👉👌💦 while you pound my ass drives me insane. I'm going to cum so hard. Don't stop, fuck my ass babeeee, don't stop until you empty your balls deep in me 💦💦💦💦🥵🥵🥵🥵🥵😈😈😈😈😈",
 	"I want you to take my ass tonight, babe. 😈 I’ve been thinking about it all day, how good your cock feels back there. I’ll start slow, letting you stretch me open until I’m begging for more 🥵🥵🔥",
 	"I want you so bad tonight, baby. 😈 I’ve been imagining how it would feel to have you take me from behind, my ass filled with you, pushing deeper until I can't take it anymore. I just need all of you 🔥🥵",
+	"Bend me over the couch and rip my pants off. I want you to take my ass so fucking bad. Spread my asscheeks and spit on my asshole baby, then shove your cock into my hole. Just fuck me as hard as you can, I want you to use my ass for your own pleasure 😈😈😈🥵🥵🥵🥵🥵🥵💦💦💦💦💦",    
 	"All I want right now is to feel you inside me, pressing against my tight little ass until I’m moaning your name. I’ve been so turned on just thinking about it... ready for you to fill me completely, babe fuckkkkk 🥵🥵🥵🥵🥵 I need you right fucking now... My ass wants you so badly NOW BABE NOWWWWWWW 🥵🥵🥵🥵🥵🥵",
 	"Tonight, I need you to take control. I want to feel every inch of you sliding into my ass, stretching me until I'm trembling and wanting more. Just the thought of it has me dripping and ready for you 😈🔥",
+	"Look at my ass baby, I know you want to lick it. Bury your face in there and tongue fuck my asshole. Lick it baby, get it nice and wet. I want your cock deep in my asshole. Fuck me all night! Don't stop until you empty your balls in my ass. I won't be happy until your balls are completely empty 🥵🥵🥵😈😈😈😈💦💦💦💦💦",    
+	"Mmmm babe, I've been thinking about your hands on my ass all day. I couldn't stop thinking about it so when I was in the shower 🚿💦, I lingered my asshole to feel like you were here 😏😈. Do you want to replace my fingers  and fuck my ass? 🥵🥵😈😈💦💦💦💦💦",    
 	"Imagine me on all fours, my ass ready for you, aching to feel you slide in deep. I want you to take your time, making me squirm until I can't hold back anymore. I want all of you tonight, babe 🥵💦",
 	"I can't stop thinking about you taking me from behind—feeling you push into my ass, stretching me until I can't take any more. I need that feeling, babe, the way you make me crave every inch of you 😈🔥🥵",    
 	"Mmm, I love it when you fuck my ass. 😏 It feels so tight around your cock, and the way you thrust into me makes me moan so loud. I want you to go deeper, take all of me, my love 😈💦",
