@@ -445,6 +445,7 @@ const messages = {
         "If you're not going to answer that means you're gay😂😎🤭",
         "Hands or no hands?😋😈",
 	"Do you need a piece of me?🙈😋",
+	"Tell me what sign you are so I know if we are compatible when we fuck 😈😈😈😈",    
 	"Get down! Put your head where it belongs!😈🤫",
 	"Heads down and heads up, now it's up to you which and which😈😈",
 	"Would you finger my holes? 😈😈",
