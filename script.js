@@ -463,6 +463,7 @@ const messages = {
 	"Don't be that guy👎, never leave me unfinished💦💦, I already know that you are a real man😈",
 	"Choppidy chop, or I am going to squirt in your mouth.😈💦💦",
 	"Are you at work or are you going to work me?🤭🤷",
+	"Tip me whatever you think I deserve and I will give you a very hot and naughty video accordingly🙈🥵😜",    
 	"Don't know what to say anymore to get your full attention...🙄😔",
 	"Are you a sub or a dom? I need to know ASAP👋🍑",
 	"HEY! 😈 Tip me $29 and don't say a word 🤫 just make yourself comfortable and grab your cock, I will guide you through the best experience of your life, it will be something unique and unmatched.I'll show you what one girl can do with your sweet cock 🔥🔥",
