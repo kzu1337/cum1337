@@ -449,6 +449,7 @@ const messages = {
 	"Get down! Put your head where it belongs!😈🤫",
 	"Heads down and heads up, now it's up to you which and which😈😈",
 	"Would you finger my holes? 😈😈",
+	"I dare you to tip me 15-20$ and I'll give you one of my top 5 videos😈 I'll give you the chance to pick a number from 1-5 and that will be😋 What do you think, Love ?😏🔥",    
 	"Which hole do you prefer my lover? 😍😍",
 	"Videocall today? 😋😈",
 	"Honey, let's play a game 🎮🎲. Today I decided to have no control over my content 🤪, what do you think? You will have to tip me how much you want and I will double it in content 😏😈. Are you in? 🥰",
