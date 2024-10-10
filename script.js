@@ -448,6 +448,7 @@ const messages = {
 	"Tell me what zodiac sign you are so I know if we are compatible when we fuck 😈😈😈😈",    
 	"Get down! Put your head where it belongs!😈🤫",
 	"Heads down and heads up, now it's up to you which and which😈😈",
+	"Tell me your budget and I'll find something you like for that amount😈🔥",    
 	"Would you finger my holes? 😈😈",
 	"I dare you to tip me 15-20$ and I'll give you one of my top 5 videos😈 I'll give you the chance to pick a number from 1-5 and that will be😋 What do you think, Love ?😏🔥",    
 	"Which hole do you prefer my lover? 😍😍",
