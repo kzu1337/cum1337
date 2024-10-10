@@ -1,25 +1,24 @@
-/* Background Gradient: Black to Grey */
+/* Body - Asigurăm scroll complet */
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #1e1e1e, #333); /* Păstrăm fundalul negru și gri */
+    background: linear-gradient(135deg, #1e1e1e, #333) no-repeat fixed;
     color: #ffffff;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    overflow-x: hidden; /* Ascundem scroll-ul orizontal */
 }
 
-/* Header styling */
+/* Header */
 header {
     background-color: #333;
     width: 100%;
     text-align: center;
     padding: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adăugăm umbre */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
     position: fixed;
     top: 0;
     left: 0;
@@ -28,121 +27,148 @@ header {
 
 h1 {
     margin: 10px 0 0;
-    color: #b50e29; /* Schimbăm portocaliul în visiniu */
-    text-shadow: 0px 0px 10px rgba(181, 14, 41, 0.8); /* Glow visiniu pentru titlu */
+    color: #b50e29;
+    text-shadow: 0px 0px 10px rgba(255, 0, 0, 0.8); /* Glow */
 }
 
-/* Main area adjustments */
+/* Main area */
 main {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 250px; /* Compensare pentru header */
-    padding-bottom: 100px; /* Spațiu pentru footer */
-    gap: 20px;
-    width: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 90%;
     max-width: 1200px;
+    margin: 150px auto 50px; /* Reducem distanța dintre footer și ultimele categorii */
+    gap: 30px; /* Mărim distanța dintre categoriile individuale */
+    flex-grow: 1;
+    padding-bottom: 50px; /* Reducem spațiul extra din jos */
 }
 
+/* Categoriile */
 .category {
-    background-color: #333;
+    background-color: #222;
     padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Adăugăm umbre */
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(255, 0, 0, 0.7); /* Glow */
     text-align: center;
     width: 300px;
-    height: 250px;
-    overflow-y: auto;
-    position: relative;
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; /* Smooth transition */
+    height: 250px; /* Fixăm înălțimea pentru a preveni extinderea */
+    overflow: hidden; /* Ascundem orice text care depășește limitele */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
 .category:hover {
     transform: translateY(-10px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8); /* Umbre mai mari la hover */
+    box-shadow: 0 8px 30px rgba(255, 0, 0, 1); /* Glow mai mare */
 }
 
-/* Button Styling with Glow and Modern Effects */
+/* Butoanele */
 button {
-    background-color: #b50e29; /* Culoare visiniu */
+    background-color: #b50e29; 
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: #fff;
-    padding: 10px 20px;
+    padding: 12px 24px;
     margin: 10px 0;
     cursor: pointer;
-    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
-    box-shadow: 0px 0px 15px rgba(181, 14, 41, 0.5); /* Glow visiniu */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0px 0px 15px rgba(255, 0, 0, 0.7); /* Glow */
 }
 
 button:hover {
-    background-color: #910a21; /* Închidem puțin culoarea la hover */
-    box-shadow: 0px 0px 20px rgba(181, 14, 41, 0.8); /* Glow mai puternic la hover */
+    background-color: #ff0022;
+    box-shadow: 0px 0px 20px rgba(255, 0, 0, 1); /* Glow mai puternic */
 }
 
-button:active {
-    transform: scale(0.95); /* Micșorăm butonul la apăsare */
-    box-shadow: 0px 0px 10px rgba(181, 14, 41, 0.8); /* Glow redus la click */
+/* Ascundem containerul când este gol */
+.message-container:empty {
+    visibility: hidden; /* Doar ascundem vizibilitatea, nu eliminăm din DOM */
 }
 
-/* Styling for the message container */
+/* Mesajele generate - cu efect de glow și ajustare */
 .message-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    max-height: calc(100% - 70px);
-    overflow-y: auto;
-    padding-right: 12px; /* Spațiu pentru scrollbar */
-    background-color: #333; /* Păstrăm fundalul */
-    border-radius: 10px; /* Forme rotunjite */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); /* Umbre pentru container */
-    transition: box-shadow 0.3s ease; /* Smooth transition */
+    max-height: 120px; /* Limităm înălțimea containerului de mesaje */
+    overflow-y: auto; /* Permitem scroll pe verticală pentru mesajele lungi */
+    padding: 10px; /* Am adăugat padding pentru a face textul mai aerisit */
+    background-color: rgba(0, 0, 0, 0.8); /* Casetă cu opacitate pentru un efect mai plăcut */
+    border-radius: 10px; /* Colțuri rotunjite pentru un aspect modern */
+    box-shadow: 0px 0px 15px rgba(255, 0, 0, 0.8); /* Glow roșu în jurul casetei */
+    transition: visibility 0.3s, box-shadow 0.3s ease;
 }
 
-/* Glow effect for generated messages */
 .message-container p {
     color: #fff;
-    background: rgba(181, 14, 41, 0.1); /* Fond semi-transparent */
+    background: rgba(181, 14, 41, 0.1); /* Fundal semi-transparent */
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px; /* Colțuri rotunjite */
     margin: 5px 0;
-    box-shadow: 0px 0px 10px rgba(181, 14, 41, 0.5); /* Glow visiniu */
-    transition: all 0.3s ease-in-out; /* Smooth transition for appearance */
+    box-shadow: none; /* Eliminăm shadow-ul suplimentar */
+    transition: all 0.3s ease-in-out; /* Tranziție smooth pentru apariția textului */
+    max-height: 100%; /* Asigurăm că textul nu extinde containerul */
+    overflow-y: auto; /* Permitem scroll în interiorul paragrafului */
+    line-height: 1.5; /* Ajustăm distanța între linii pentru lizibilitate */
 }
 
-/* Custom scrollbar styling */
+
+
+
+/* Bara de scroll personalizată */
 .message-container::-webkit-scrollbar {
     width: 12px;
 }
 
 .message-container::-webkit-scrollbar-track {
-    background: transparent;
+    background: transparent; /* Eliminăm track-ul pentru a preveni urmele */
 }
 
 .message-container::-webkit-scrollbar-thumb {
-    background: #b50e29; /* Visiniu */
+    background-color: #b50e29; /* Roșu pentru bara de scroll */
     border-radius: 10px;
+    border: 2px solid #222; /* Adăugăm un border pentru a preveni urmele */
+    box-shadow: none; /* Eliminăm umbra care cauzează bugul */
 }
 
 .message-container::-webkit-scrollbar-thumb:hover {
-    background: #910a21;
+    background-color: #ff0022; /* Roșu mai deschis la hover */
 }
 
-/* Footer styling */
+
+/* Footer fixat */
 footer {
     background-color: #333;
     width: 100%;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
-    bottom: 0;
+    position: fixed; /* Footerul va rămâne fix în partea de jos */
+    bottom: 0; /* Asigurăm că este lipit de marginea de jos */
     left: 0;
-    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 -4px 8px rgba(255, 0, 0, 0.7); /* Glow */
+    z-index: 1000; /* Asigurăm că este deasupra altor elemente */
 }
 
 footer p {
-    margin: 0;
-    color: #b50e29; /* Schimbăm textul în visiniu */
-    text-shadow: 0px 0px 8px rgba(181, 14, 41, 0.8); /* Glow visiniu */
+    color: #b50e29;
+    text-shadow: 0px 0px 8px rgba(255, 0, 0, 0.8); /* Glow */
+}
+
+/* Ajustare pentru main, pentru a evita suprapunerea cu footerul */
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 90%;
+    max-width: 1200px;
+    margin: 150px auto 50px;
+    gap: 30px;
+    flex-grow: 1;
+    padding-bottom: 150px; /* Asigurăm spațiu suficient pentru footer */
+}
+
+
+/* Fundal fix și scroll */
+html, body {
+    height: 100%;
+    background-attachment: fixed; /* Asigurăm fundalul uniform */
 }
