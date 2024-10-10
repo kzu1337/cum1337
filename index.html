@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+<audio id="generate-sound" src="ah.wav" preload="auto"></audio>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -125,5 +127,13 @@
         <p>&copy; 💵 Florin M.💵 ~ M is from MONEY 🤑 ~ (T2) 2024 - All Rights Reserved!</p>
     </footer>
     <script src="script.js"></script>
+	<script>
+document.querySelectorAll('button.generate').forEach(button => {
+    button.addEventListener('click', function() {
+        const audio = document.getElementById('generate-sound');
+        audio.play(); // Redăm sunetul când se apasă butonul
+    });
+});
+</script>
 </body>
 </html>
