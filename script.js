@@ -172,7 +172,8 @@ const messages = {
     pussy: [
 
 	"I need you inside me right now, baby. 😈 My pussy is so wet and ready for you. I want to feel every inch as you slide in, stretching me open. Fuck me hard until I can’t take it anymore 🥵🥵🥵💦",
-	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",   
+	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",
+	"I’m going to slide my hand down my panties and start playing with myself as I think about you. I’ll imagine you here with me, running your hands over my body, kissing my neck. I’ll tell you how much I want you. And then I’ll start begging for it. I’ll beg for your cock, for your cum. I’ll tell you how badly I need it. And when I can’t take it anymore, I’ll slide you inside me and ride you until we both explode 🥵🥵🥵🥵",    
 	"I want you to pin me down and take my pussy. 😈 Feel how wet I am for you, how badly I want it. Fuck me slow at first, make me beg for more, then give me everything. I need it 🥵🥵🥵🥵🥵🥵🥵🥵💦💦💦💦💦",
 	"Your cock feels so good inside me, baby. 😏 I love the way you pound my pussy, the sound of our bodies slapping together. I’m gonna cum all over you, and I want you to fill me up 😈🔥",
 	"You pull you off the desk, slap me and pull me tight to you as we passionately kiss after I cum, You bend me over the desk and spank me as you slide your cock through my soaking pussy lips before I finally feel your cock sliding its way through my pussy 🥵🥵🥵🥵🥵😈😈😈😈😈",    
