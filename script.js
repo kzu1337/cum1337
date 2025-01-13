@@ -466,6 +466,7 @@ const messages = {
     ],
     support: [
 
+	"If I told you I love surprises, what’s the one way you’d surprise me? 😏",    
 	"Do you ever wonder how tight my pussy feels, baby? 😈😈",
 	"I can’t stop thinking about your cock inside me, making me scream 😈🍆💋",
 	"What would you do if you had me bent over and begging for more? 😏🔥🍑",
