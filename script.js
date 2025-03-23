@@ -302,7 +302,8 @@ const messages = {
 	"If I ask u to stop and disobey lift me, slap me across the face and throw me on the floor, stick ur foot in my mouth so I shut the fuck up and take it like a good bitch and keep destroying my asshole"
     ],
     cum: [
-	
+
+	"I will fuck that cock so hard until I will make you spray all of that delicious jizz inside my precious little ovulating pussy 🥵💦💦 Please master don't miss any single drop, ok? Spray all of it, drain and unload your balls in this little cunt master, breed me 🙏🙏🙏💦💦💦💦💦",    
         "I want you to go faster and faster and grab my boobs while you're drilling me and don't stop until you give me the first creampie, just go harder and faster and slap my boobs too🥵 Just keep going even after you cum inside me and let's make a mess together, break the bed😈😈 telling me how of a slut I am and talk dirty to me and make me scream in pleasure, make me fall asleep from exhaustion and then wake me up with your rock hard cock and start all over again, we are draining our energy out and I need your cum to gain it back💦💦💦",
         "I want you to give me a very big load, love, I want it all😍😍 fucking me rough and have no mercy for them, put me in doggy so you can have access to my both holes😈😈 Pound me with no mercy please, I'm all yours and your cum will be my reward and I hope you'll give it to me, all of it😍🤤",
 	"Your cum is mine, I want it all, in every single hole 🥵🥵🥵 I hope your balls can generate a big load of cum for me, after you cum I will suck your cock like there is no tomorrow and my life depends on it🥵🥵🥵 I wanna gag on your cock and lick your balls at the same time while I'm looking into your eyes with tears of happiness and joy because I'm your best girl ever and none ever sucked your cock like I did 🤤🤤",    
