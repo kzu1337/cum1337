@@ -513,6 +513,8 @@ const messages = {
     ],
     support: [
 
+        "Baby I want to be fucked, ruined, destroyed and abandoned in a puddle of cum 🥵🥵🥵🥵",
+	"Baby I watched a horror movie and freaked out, I need to see your dick to get out of my shock 😭😭😭😭",    
 	"I want to suck your cock like a Chupa-Chups 🍭🍭",    
 	"If I told you I love surprises, what’s the one way you’d surprise me? 😏",    
 	"Do you ever wonder how tight my pussy feels, baby? 😈😈",
