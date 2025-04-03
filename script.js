@@ -515,6 +515,7 @@ const messages = {
     support: [
 
         "Baby I want to be fucked, ruined, destroyed and abandoned in a puddle of cum 🥵🥵🥵🥵",
+	"Pussy 😺, Boobs 🍒, or Ass 🍑? What would you like to see from me? 😍🍆💦💦💦",    
 	"Baby I watched a horror movie and freaked out, I need to see your dick to get out of my shock 😭😭😭😭",    
 	"I want to suck your cock like a Chupa-Chups 🍭🍭", 
 	"Picture me on all my fours squeezing cum from my ass 🍑💦💦💦💦💦",    
