@@ -173,6 +173,11 @@ const messages = {
     ],
     pussy: [
 
+	"I want you to slide your cock deep inside my pussy, slow at first… then fuck me so hard I can’t even speak your name 💦💦💦 I need to feel every inch of your hard cock deep inside me.. Please babe fuck it harder 🥵🥵🥵🥵",
+	"My pussy’s so wet for you right now… I need you to fill me up and fuck me like you own me 😈😈😈 Take my pussy and do everything you want... Fuck it, spit it, lick it, destroy it 😈😈😈😈 THIS HOLE IS JUST YOURS 🥵🥵🥵💦💦💦💦💦",
+	"Spread my legs, pin me down, and take this tight little pussy until I’m moaning nonstop and begging for your cum 😈😈😈 I need you to paint this pink pussy in white with your yummy delicious sticky juicy cum... Oh fuck that's hot as fuck baby 🥵🥵🥵💦💦💦💦 Imagine so much cum all over my pussy then I take it with my fingers and I put it right deep inside my slippery wet cunt 🥵🥵🥵🥵",
+	"I don’t want sweet tonight… I want you rough. Grab my hips and fuck my pussy so deep I feel you in my stomach 😈😈😈😈 I want to take every inch of your cock inside me until I can't walk anymore next day 🥵🥵🥵🥵 Oh fuck... Look what you made me do it thinking of your cock right now 💦💦💦💦💦",
+	"If you were here, I’d ride your cock so good and slow, my pussy clenching around you while I cum all over it 🥵🥵🥵 Fuck yes I need your cock right now... I'm so obsessed with your hard throbbing cock... I can't live without your cock inside me 🥵🥵🥵🥵🥵",    
 	"Baby I want to cum along you, and make a big puddle in your bed 😈😈😈 A puddle of cum then make me slurp every drop with a straw FUCKKKKKKKKKK 🥵🥵🥵🥵🥵🥵🥵🥵",    
 	"I need you inside me right now, baby. 😈 My pussy is so wet and ready for you. I want to feel every inch as you slide in, stretching me open. Fuck me hard until I can’t take it anymore 🥵🥵🥵💦",
 	"Mmm, I love the way your cock fills me up. 😏 I want you to grab my hips and fuck me deep, make me scream your name while you hit all the right spots. Don’t stop until I’m cumming all over you 💦👅",
@@ -260,7 +265,12 @@ const messages = {
 	"I crave the sensation of your tongue on my asshole, slowly and thoroughly exploring every inch. Each lick will make me quiver, my body arching with delight as you take your time savoring the taste and feel. The way you make me lose control with your teasing touch is absolutely irresistible 😏🔥"
     ],
     ass: [
-	    
+
+	"I want you to bend me over spread my ass and slide your thick cock in slow… Oh fuckkkkk..... make me moan while you stretch me wide and deep 🥵🥵🥵🥵🥵",
+	"My pussy’s soaking… but I want it in my ass... I want that cock so fucking bad right now... Hard. Deep. Until I’m shaking and begging for more 😈😈😈 Oh please fuck my throbbing little asshole 🥵🥵🥵💦💦💦💦",
+	"Imagine me on all fours, looking back at you, ass up, biting my lip while you push inside my tight little hole 😈😈😈 You spit on your cock, then you spit my throbbing asshole and finally you shove your hard cock inside my tight little butthole 🥵🥵🥵 Oh fuck it feels so fucking good.... You are so good when you fuck my ass like that 😈😈",
+	"I want you to spit on it, slap it, then fuck my ass until I forget my own name. Make it messy and soaked 🥵🥵🥵 My asshole is so fucking wet right now thinking of your hard cock... Please feed my little asshole with your craving cock 😈😈😈😈",
+	"If you were here right now, I’d let you slide your cock in my ass while I play with my pussy… double the pleasure baby, I beg you 🥵🥵🥵 All I need right now is your cock fucking me till I can't take it anymore and I beg you to stop because I have tears in my eyes.. But don't stop 🥵🥵🥵 Continue destroying my little asshole, I am all yours oh fuckkkkkkkkk 🥵🥵🥵🥵💦💦💦💦💦",    
         "Mmm god baby, you make my ass feel so good. Feeling you balls hit my pussy 👉👌💦 while you pound my ass drives me insane. I'm going to cum so hard. Don't stop, fuck my ass babeeee, don't stop until you empty your balls deep in me 💦💦💦💦🥵🥵🥵🥵🥵😈😈😈😈😈",
 	"I want you to take my ass tonight, babe. 😈 I’ve been thinking about it all day, how good your cock feels back there. I’ll start slow, letting you stretch me open until I’m begging for more 🥵🥵🔥",
 	"I want you so bad tonight, baby. 😈 I’ve been imagining how it would feel to have you take me from behind, my ass filled with you, pushing deeper until I can't take it anymore. I just need all of you 🔥🥵",
