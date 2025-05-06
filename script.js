@@ -550,6 +550,7 @@ const messages = {
 	"😈 Wet HOLES 💦💦 in search of throbbing COCKS 🍆🍆💦💦",
 	"Hungry HOLES 👌🥵 looking for DICKS to feed 💦💦💦😈😈",
 	"Can I be your walking cum bucket, please? 🥵🙏🌶️🤤💦💦💦💦",
+	"Did you know that I have full show videos? 😍😍 They're long and they'll make you cum multiple times if you watch them🍆💦 Are you interested?😈😈😈 Let me know😏",    
 	"Is your cock throbbing for me right now? 😍🍆💦🙏",    
         "Baby I want to be fucked, ruined, destroyed and abandoned in a puddle of cum 🥵🥵🥵🥵",
 	"Pussy 😺, Boobs 🍒, or Ass 🍑? What would you like to see from me? 😍🍆💦💦💦",    
