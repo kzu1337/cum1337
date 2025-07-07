@@ -552,7 +552,16 @@ const messages = {
     ],
     support: [
 
-	    
+        "Ever imagine what I sound like when I cum, baby? 😩🎧",
+	"Wanna know how deep I can take it before I ch0o0ke? 👅😈",
+	"I’m not wearing any panties right now… what would you do about it? 😏💦",
+	"Think you could handle the mess I make when I squirt? 😛💧",
+	"I moaned your name while touching myself last night… wanna know why? 👀😩",
+	"Would you fuck me slow and deep… or bend me over and ruin me? 😈🍑",
+	"Ever tasted pussy that drips down your chin? Bet you’d beg for more 😋💦",
+	"I get so horny when I know you’re hard for me… are you right now? 😏🔥",
+	"I’ve been such a dirty girl today… want me to confess everything? 😇😈",
+	"Just imagine me riding you, tits bouncing, whispering don’t stop in your ear 💋🥵",    
 	"😈 Wet HOLES 💦💦 in search of throbbing COCKS 🍆🍆💦💦",
 	"Hungry HOLES 👌🥵 looking for DICKS to feed 💦💦💦😈😈",
 	"Can I be your walking cum bucket, please? 🥵🙏🌶️🤤💦💦💦💦",
