@@ -552,11 +552,11 @@ const messages = {
     ],
     support: [
 
-	"Just finished f*cking myself until I couldn’t take it anymore… wanna see every second? 👅🍑",
+	"Just finished fucking myself until I couldn’t take it anymore… wanna see every second? 👅🍑",
   "I’m on my knees, drooling, begging to be filled… and I filmed it all for you 😈💦",
   "My toy wasn’t enough tonight… I need you deep inside me 🖤🥵",
   "I came so hard I squirted all over the camera lens… wanna watch up close? 💦👀",
-  "I was riding my dildo like it was your c*ck… you’ll love how wet I got 😩🔥",
+  "I was riding my dildo like it was your cock… you’ll love how wet I got 😩🔥",
   "I spread my legs wide, played with my pussy, and moaned your name 😈🍒",
   "I let my fingers slip in deep while I teased my cl*t… come watch me cum 💋💦",
   "I was dripping everywhere… couldn’t stop touching myself until I squirted 😩💦",
@@ -566,19 +566,19 @@ const messages = {
   "I licked my fingers clean after cumming all over them 👅💋",
   "I spread myself open so you can see how soaked I am 😏💦",
   "My vibrator made me lose control… I came again & again 🥵🔥",
-  "I’m aching for your c*ck so bad… come watch me play until I can’t stop 😈💦",
+  "I’m aching for your cock so bad… come watch me play until I can’t stop 😈💦",
   "Bent over the bed, panties off… I want you behind me so deep 🍑💋",
   "My toy hit the perfect spot… you’ll love how hard I squirted 😩💦",
   "I moaned so loud while fingering myself… you’ll need headphones for this one 🔥👂",
-  "My body’s shaking, dripping, begging to be f*cked 😈🍒",
-  "I want your c*ck down my throat until I’m gagging 👅🖤",
+  "My body’s shaking, dripping, begging to be fucked 😈🍒",
+  "I want your cock down my throat until I’m gagging 👅🖤",
   "Cum with me tonight… I’ll show you every creamy detail 💦😏",
   "I was naked on the floor, legs spread wide, soaking wet 😩🔥",
   "I touched myself so slow at first… then couldn’t stop rubbing faster 💋💦",
   "I rode my toy until I squirted everywhere… wanna see it drip? 😈🍑",
   "I’m ready to take you deep inside me… come watch me beg for more 🖤🥵",
   "My pussy’s aching for you… watch me finger it until I cum 💦👅",
-  "I sucked my toy like it was your c*ck… wanna see me gag? 😈🔥",
+  "I sucked my toy like it was your cock… wanna see me gag? 😈🔥",
   "I moaned so hard I had to cover my mouth 😩💋",
   "I spread wide open just for you… dripping wet & waiting 💦🍒",
   "I let my toy stretch me so deep… you’ll love watching every second 😈🥵",
@@ -600,8 +600,8 @@ const messages = {
   "I’m dripping down my thighs… want to lick it up? 👅💦",
   "My pussy’s so tight and creamy… come see for yourself 😈🔥",
   "I was gagging on my toy, drooling everywhere 👄💦",
-  "I love being f*cked rough… come watch me take it deep 🖤😏",
-  "I want to be your dirty slut tonight… unlock & own me 😈🔥",
+  "I love being fucked rough… come watch me take it deep 🖤😏",
+  "I want to be your dirty whore tonight… unlock & own me 😈🔥",
     "Ever imagine what I sound like when I cum, baby? 😩🎧",
 	"Stroke it slow, baby… I wanna see how long you can hold it for me 😈🖐️",
 	"Bet you’d cum just from licking the arch of my foot, huh? 😏👣",
@@ -802,4 +802,5 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
