@@ -436,6 +436,21 @@ const messages = {
     ],
     bundle: [
 
+  "I’m laying on my back, legs wide open, slowly rubbing my clit while sliding two fingers inside my wet pussy. I moan louder every time I push deeper, imagining it’s your cock filling me up 😈💦",
+  "I love playing with my pussy in front of the mirror, watching how wet I get as my fingers slide in and out. My moans echo in the room while my thighs shake uncontrollably 👅🔥",
+  "Right now, I’ve got one hand squeezing my tits and the other circling my clit. My pussy is dripping, and I can’t stop thinking about how hard I’d cum if you were here to fuck me 😩💋",
+  "I spread my pussy lips wide open and tease myself with slow strokes until I’m soaked. The more I rub, the more I moan, begging for more while my body trembles from the pleasure 💦🍒",
+  "I finger my pussy so hard that the sheets under me are wet already. I moan your name, arch my back, and imagine you pounding me instead of my own fingers 🖤🔥",
+  "I’m sitting on the edge of the bed, legs spread wide, playing with my pussy until I drip down my thighs. My clit is throbbing, and I can’t stop moaning for you 👅💦",
+  "I love sliding my fingers deep inside my pussy and pulling them out to taste how wet I am. My moans get louder as I rub harder, wishing it was your tongue licking me 😈💋",
+  "I get so messy when I play with my pussy… my juices running all over my fingers as I rub my swollen clit until my body shakes and I scream your name 💦🔥",
+  "I’m bent over the bed, playing with my pussy from behind. Every stroke makes me wetter, my ass bouncing as I push deeper inside myself 😩🍑",
+  "I love spreading my pussy lips with one hand while rubbing my clit with the other. The way my body squirms and moans makes me feel like such a needy slut 😈💦",
+  "I play with my pussy in the shower, hot water dripping down my body while I rub my clit so hard I can barely keep my legs from shaking 🖤🔥",
+  "I’m moaning while I play with my pussy, twisting my nipples with one hand and fingering myself with the other until I feel an orgasm building deep inside me 😏💋",
+  "My pussy is so sensitive that just circling my clit makes me drip all over. I rub faster and harder, feeling my legs tremble as I beg for more 👅💦",
+  "I’m on my knees, spreading my pussy with two fingers while I rub my clit with the other hand. I moan and beg to be filled as I play with myself 😩🔥",
+  "I push three fingers inside my pussy and rub my clit at the same time until I squirt everywhere. My moans get louder as my body shakes and I can’t stop cumming 😈💦",	
   "I got so horny last night that I ended up making a whole bundle of filthy videos just for you… I’m dripping, moaning, and riding until I can’t breathe. Every second is raw and real. Unlock it and come watch me lose control all over again 😈💦",
   "I spread myself wide open on camera, teased my clit until I was shaking, and then begged for more while fingering myself deeper. This bundle shows every moan, every drip, every messy orgasm… it’s so hot I’m still wet just thinking about it 💋🔥",
   "This bundle is pure filth… me on my knees, gagging, drooling, sucking until my throat is raw, then bending over and spreading my pussy wide open for you. If you want to see me be your dirty slut, this one’s for you 😏👅",
@@ -901,6 +916,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
