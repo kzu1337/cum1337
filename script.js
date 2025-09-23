@@ -436,6 +436,65 @@ const messages = {
     ],
     bundle: [
 
+	"🔥💦Don’t you just love the thought of me crawling on my knees just to please you? 😈👅 I’d look up at you with those innocent eyes while being your dirty slut at the same time… 💋🍑",
+  
+  "I can already imagine your hands all over my body 😍💦 pinning me down and making me beg for more 👅😈 come take what’s yours, daddy 😏🍒🔥",
+  
+  "Would you like to see me slowly undress for you? 🙈💃 I’ll make it so hot that your cock won’t stop throbbing 💦😈 come and get this private show 🔥👅",
+  
+  "My pussy is throbbing just thinking of you 😩💦 I want to open my legs wide and let you taste every drop of me 👅🔥 don’t keep me waiting 😈💋",
+  
+  "Do you know how much I crave your attention? 🥵💦 Every time you look at me, I just want to be your little toy 😈👅 play with me tonight daddy 💋🍑",
+  
+  "I can’t stop touching myself when I think about you 😏🔥 Wanna see how wet you make me get? 💦👅 Unlock me and I’ll show you everything 😈💋",
+  
+  "Imagine me naked, tied up, begging for your cock 😈👅💦 would you tease me slowly or fuck me hard right away? 😏🍑 Come take control 🔥💋",
+  
+  "I’m dying to feel your tongue all over my body 👅💦 especially between my thighs 😈💋 I want to ride your face until I squirt all over you 🔥🍒",
+  
+  "Do you know how good it feels when I slide my panties off slowly while moaning your name? 😈🙈💦 come see me do it just for you 👅💋🔥",
+  
+  "I’m such a naughty slut tonight 😏💦 would you punish me or spoil me first? 👅😈 Either way, I’ll end up cumming all over you 🍒🔥",
+  
+  "I love teasing you until you can’t take it anymore 😈👅💦 Would you let me ride your cock slowly while looking you in the eyes? 💋🔥",
+  
+  "Don’t you wanna see my perfect tits bouncing while I ride you like a good girl? 😩🔥💦 Come watch me moan your name while taking every inch 😈🍑",
+  
+  "I just want to wrap my lips around you and suck you deep 👅💦 until you explode all over my face 😈💋 you’d love that view 🔥😍",
+  
+  "Close your eyes and picture me on top of you 😏💦 moaning while sliding up and down your cock slowly 😈👅 I’d make you beg for more 🍒🔥",
+  
+  "I want to be your dirty little secret 😈💦 the one that makes you cum harder than anyone else ever could 👅💋 Do you think you can handle me? 🔥🍑",
+  
+  "Every time I play with my pussy, I imagine it’s your fingers inside me 👅💦 stretching me and making me squirt all over 😈💋",
+  
+  "I’d love to make you cum so hard all over my tits 💦🔥 watching it drip down while I lick it up slowly 👅😈 wouldn’t you love that view? 💋🍑",
+  
+  "What would you do if you saw me naked, legs spread wide, begging for your cock? 😩💦 Come show me how bad you want me 😈👅🔥",
+  
+  "I’ve been such a good girl for you today 😇💦 Don’t you think I deserve your cock as a reward? 😈👅 Make me scream daddy 🔥💋",
+  
+  "Mmm baby, I love the way you make me so wet just by thinking about you 😩💦 Wanna see what you do to me? 😏👅 come take a look 😈🔥",
+  
+  "My panties are soaking wet right now 😩💦 I keep rubbing myself thinking about your cock stretching me wide 👅😈 Come watch me cum 🔥💋",
+  
+  "Wouldn’t you love to see me stroking your cock between my tits? 😏💦 spitting on them and moaning until you cover my chest 😈👅🔥",
+  
+  "I’d love to ride your face until I’m shaking uncontrollably 😩💦 my pussy dripping all over you while I scream your name 👅😈🔥",
+  
+  "I just want to bend over, arch my back, and let you spank my ass while you fuck me hard 😏🍑💦 don’t hold back daddy 😈🔥",
+  
+  "Every inch of my body is begging for your touch 😩💦 my nipples are hard, my pussy is dripping, and I just want you to take me 😈👅💋",
+  
+  "I’m your dirty little slut and I’ll do whatever you say 😈💦 Would you use me gently or fuck me rough until I’m screaming your name? 👅🔥",
+  
+  "I love it when you make me feel like your princess 😇💦 but even more when you turn me into your naughty slut 😈👅 Come play with me tonight 💋🔥",
+  
+  "What would you do if I showed up wearing nothing but lingerie and heels? 😏🔥💦 Would you rip it off me and fuck me right away? 😈🍑👅",
+  
+  "I’m dripping wet, touching myself while thinking about how deep you’d stretch me 😩💦 Wanna see how badly I need you? 😈👅 Come unlock me 💋🔥",
+  
+  "I want your hands wrapped around my throat while you fuck me deep 😏💦 whispering in my ear how much of a slut I am for you 😈👅🔥",	
   "I’m laying on my back, legs wide open, slowly rubbing my clit while sliding two fingers inside my wet pussy. I moan louder every time I push deeper, imagining it’s your cock filling me up 😈💦",
   "I love playing with my pussy in front of the mirror, watching how wet I get as my fingers slide in and out. My moans echo in the room while my thighs shake uncontrollably 👅🔥",
   "Right now, I’ve got one hand squeezing my tits and the other circling my clit. My pussy is dripping, and I can’t stop thinking about how hard I’d cum if you were here to fuck me 😩💋",
@@ -916,6 +975,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
