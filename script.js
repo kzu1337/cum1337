@@ -738,6 +738,18 @@ const messages = {
     ],
     support: [
 
+		"Let me take care of your manhood 🥵",
+"My asshole wink to your cock 😉😈",
+"I want to float in a puddle of cum 😈💦💦💦💦",
+"Honey or whipped cream? 😏",
+"Oh yeah daddy I'm just a piece of flesh fuck me and treat me with cock and cum 🥵🥵🥵",
+"I want a big mess inside my pussy dripping of my pussy while I'm walking 🥵",
+"Let me taste your cock babe 🥵🥵",
+"My pink pussy wants your manhood 😍",
+"I need your sweet cum all over my tongue 🥵💦",
+"Let me kiss the tip of your cock so I can taste your precum 🥰😈",
+"Where do you want to cum? 🥵🥵",
+"I need you right now 😏",
 "I’m laying in bed naked right now… sliding my fingers deeper with every moan 😈💦",
   "The way my pussy pulses when I think about your cock… I can’t stop touching it 😩🔥",
   "I pressed my tits together and imagined you cumming all over them 👅🖤",
@@ -1039,6 +1051,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
