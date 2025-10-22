@@ -47,7 +47,9 @@ dickrate: false
 // Messages for each category
 const messages = {
     teasing: [
-	    
+
+	"I will massage your manhood while you fingerfuck my both holes and I moan for you making my pussy wet and ready to taste your sweet cock 🥵",
+	"Kiss and bite my neck while you passionately kiss me making me even wetter... I want you to soak my panties and make me jump in your cock to feel your throbbing deep inside me 😈",	
 	"You wanna touch me, don’t you? 😏 But I love watching you squirm while you wait. I’m in nothing but my panties, and I can see how hard you’re getting just thinking about sliding them off. Maybe if you’re a good boy, I’ll let you 😉🍑🥵",
 	"Mmm, I’m playing with myself right now, thinking of you. 😈 My fingers are sliding down, teasing my wet pussy, but I won’t go all the way... not until you beg me for it. Let’s see how long you can hold out. 💦🔥",
 	"I love the way you look at me, knowing exactly what you want but can’t have just yet. 😏 I’m gonna take my time, baby, letting you see every inch of my body, slowly getting naked for you. Can you handle it? 🍑👀",
@@ -1037,6 +1039,7 @@ function copyMessage(category) {
         navigator.clipboard.writeText(lastMessage); // Copy to clipboard silently
     }
 }
+
 
 
 
